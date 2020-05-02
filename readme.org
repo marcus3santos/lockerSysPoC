@@ -1,0 +1,17 @@
+#+TITLE: Readme file
+#+AUTHOR: Marcus Santos
+#+DATE: 2 May 2020
+
+* Installing
+
+1. Clone the repository on you computer
+
+* Running the application
+
+1. Run DrRacket
+2. From DrRacket, File/Open/webapp.rkt 
+3. Run webapp.rkt
+
+The app will open a web page on your browser on localhost:8080
+
+Data for lockers and locks will be stored in the app home folder in hotdocs/the-db-data.db
