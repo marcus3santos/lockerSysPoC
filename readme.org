@@ -2,6 +2,8 @@
 #+AUTHOR: Marcus Santos
 #+DATE: 2 May 2020
 
+This is a proof-of-concept of a locker management web application written in Racket.
+
 * Installing
 
 1. Clone the repository on you computer
